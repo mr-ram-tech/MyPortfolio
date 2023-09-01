@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Myportfolio</string>
+    <string name="Name">Ramakrushna Sahoo</string>
+    <string name="Designation">Software Engineer</string>
+    <string name="ToDo">*Java   *XML   *MVC Architecture  *Sqlite</string>
+    <string name="ToDoDes">This app is made for users where users can add a task Set the task is complete or not there is a check box for this. The user can update and delete the task also using this app.</string>
+    <string name="gsc">*Java   *XML  *googleAPI</string>
+    <string name="gscDes">This app count steps of user and user can refresh this and check again where user allow their location and other permission for this app. This app is implemented by using googleAPI fetch the data and show the data to user.</string>
+    <string name="tik">*Java   *XML</string>
+    <string name="tikDes">This app is a game where user play this game and enjoy this game.</string>
+    <string name="HMS">*Python   *Mysql</string>
+    <string name="hmsDes">This software is only handled by admin and admin can perform all the operation of the data. This software is store all the information of Patient and print the data and fix a appointment by doctors availability and store payment information also and print the receipt of the patient.</string>
+
+</resources>
